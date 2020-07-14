@@ -1,0 +1,19 @@
+.container-divs {
+    display: flex;
+}
+
+.container-divs div{
+    background-color: beige;
+    width: 100px;
+    height: 25px;
+    border: black 1px solid;
+}
+
+img {
+    max-height: 50px;
+    max-height: 50px;
+    position: absolute;
+}
+#array {
+    border: red solid 1px;
+}
